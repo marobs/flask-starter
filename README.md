@@ -1,3 +1,5 @@
+#### Note: Generally vagrant files are gitignore'd, but are not in this case to allow transfer to new projects.
+
 ### 1. Install basic requirements
 
 * [Virtualbox] (https://www.virtualbox.org/wiki/Downloads)
